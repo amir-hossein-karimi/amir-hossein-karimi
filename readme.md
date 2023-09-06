@@ -88,4 +88,4 @@
   </tr>
 </table>
 
-[![amir hossein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amir-hossein-karimi)](https://github.com/amir-hossein-karimi)
+[![amir hossein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amir-hossein-karimi)](https://github.com/anuraghazra/github-readme-stats)
