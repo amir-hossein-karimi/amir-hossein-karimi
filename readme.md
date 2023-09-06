@@ -83,7 +83,7 @@
     <a href="http://www.github.com/amir-hossein-karimi"><img src="https://github-readme-stats.vercel.app/api?username=amir-hossein-karimi&count_private=true&theme=dark&bg_color=161b22&hide_border=true&show_icons=true" alt="amir-hossein-karimi's GitHub stats" /></a>
     </td>
     <td valign="top">
-      <a href="https://github.com/amir-hossein-karimi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-hossein-karimi&langs_count=10&theme=dark&bg_color=161b22&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+      <a href="https://github.com/amir-hossein-karimi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-hossein-karimi&langs_count=10&theme=dark&bg_color=161b22&hide_border=true&show_icons=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
     </td>
   </tr>
 </table>
