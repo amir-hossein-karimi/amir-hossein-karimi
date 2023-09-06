@@ -77,6 +77,13 @@
  
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-hossein-karimi&theme=dark&bg_color=161b22&hide_border=true&show_icons=true&locale=en&layout=compact" alt="amir-hossein-karimi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir-hossein-karimi&theme=dark&bg_color=161b22&hide_border=true&show_icons=true&locale=en" alt="amir-hossein-karimi" /></p>
+<table align="center">
+  <tr>
+    <td valign="top">
+    <a href="http://www.github.com/amir-hossein-karimi"><img src="https://github-readme-stats.vercel.app/api?username=amir-hossein-karimi&show_icons=true&count_private=true&theme=dark&bg_color=000000&hide_border=true&show_icons=true" alt="amir-hossein-karimi's GitHub stats" /></a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/amir-hossein-karimi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-hossein-karimi&langs_count=10&theme=dark&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+    </td>
+  </tr>
+</table>
