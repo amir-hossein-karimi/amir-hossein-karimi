@@ -20,9 +20,10 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<!-- pwa, reactNative -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,babel,webpack,vite,react,redux,mui,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redis,graphql,jest,git" /><br>
 </div>
 
 <br/>
