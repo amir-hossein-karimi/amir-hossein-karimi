@@ -22,8 +22,8 @@
 <br/>
 <!-- pwa, reactNative -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,babel,webpack,vite,react,redux,mui,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redis,graphql,jest,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,vite,react,redux,mui,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redis,graphql,jest,babel,webpack,git" /><br>
 </div>
 
 <br/>
