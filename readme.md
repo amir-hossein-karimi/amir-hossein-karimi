@@ -2,6 +2,7 @@
 <h3 align="center">a fullstack web developer in Iran</h3>
 
 - 📫 How to reach me **a.hosseinkarimi82@gmail.com**
+- ![](https://komarev.com/ghpvc/?username=YasiOnFire&color=blueviolet)
 
 <div align="center"> 
   <a href="mailto:a.hosseinkarimi82@gmail.com">
